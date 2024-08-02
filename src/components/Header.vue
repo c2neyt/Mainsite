@@ -71,7 +71,7 @@ onUnmounted(() => {
   </div>
   <div>
     cuneyt (aka nikool), yaş 21. self-taught geliştirici,
-    open-source meraklısıyım. programlama, oyun, ve filmlere ilgiliyim.
+    open-source meraklısıyım. programlama, oyun ve filmlere ilgiliyim.
   </div>
   <div class="flex gap-2 text-sm text-gruvbox-gray">
     <font-awesome-icon :icon="['fab', 'spotify']" class="mt-[3px]" />
