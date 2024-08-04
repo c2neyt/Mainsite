@@ -91,16 +91,16 @@ onUnmounted(() => {
     <div>{{ discordStatus }}</div>
   </div>
   <div class="flex gap-10 mt-5 text-xl">
-    <a href="https://github.com/x" target="_blank"
+    <a href="https://github.com/c2neyt" target="_blank"
       ><font-awesome-icon :icon="['fab', 'github']"
     /></a>
-    <a href="https://steamcommunity.com/id/x/" target="_blank"
+    <a href="https://steamcommunity.com/id/pehlivan16" target="_blank"
       ><font-awesome-icon :icon="['fab', 'steam']"
     /></a>
-    <a href="https://discord.com/users/x" target="_blank"
+    <a href="https://discord.com/users/269625962423910400" target="_blank"
       ><font-awesome-icon :icon="['fab', 'discord']"
     /></a>
-    <a href="https://psnprofiles.com/x" target="_blank" rel="me"
+    <a href="https://psnprofiles.com/c2neyt" target="_blank" rel="me"
       ><font-awesome-icon :icon="['fab', 'playstation']"
     /></a>
   </div>
